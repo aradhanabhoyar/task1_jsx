@@ -1,12 +1,34 @@
-# React + Vite
+1. Student Greeting
+Hello, Rahul! You are 21 years old.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2. Product Price Calculation
+Wireless Mouse - Qty: 3, Price: ₹499, Total: ₹1497
 
-Currently, two official plugins are available:
+3. Conditional Attendance Status
+Anjali is Present
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+4. Full Name Formatting
+Full Name: Amit Sharma
 
-## Expanding the ESLint configuration
+5. Loan EMI Display
+Loan Amount: ₹500000, Interest Rate: 8%, Tenure: 5 years
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Monthly EMI: ₹10138.20
+
+6. Favorite Subjects List
+Priya's Favorite Subjects:
+
+Math
+Science
+English
+7. Employee Salary Breakdown
+Suresh → Basic: ₹25000, HRA: ₹10000, Total: ₹35000
+
+8. Product Discounted Price
+Smartphone → Original: ₹20000, Discount: 10%, Final: ₹18000
+
+9. Online Order Summary
+Order ID: ORD1234, Customer: Meena, Items: 4, Total Price: ₹3200
+
+10. Weather Report
+City: Mumbai, Temp: 30°C (86.0°F)
